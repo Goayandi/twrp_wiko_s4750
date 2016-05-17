@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    device/gionee/m2/omni_m2.mk 
+    device/wiko/s4750/omni_s4750.mk 
