@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/gionee/m2
+LOCAL_PATH := device/wiko/s4750
 
-ifeq ($(TARGET_DEVICE),m2)
+ifeq ($(TARGET_DEVICE),s4750)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
